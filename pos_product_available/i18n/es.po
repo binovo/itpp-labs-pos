@@ -25,7 +25,7 @@ msgstr ""
 #: code:addons/pos_product_available/static/src/xml/pos.xml:21
 #, python-format
 msgid "(of"
-msgstr ""
+msgstr "(de "
 
 #. module: pos_product_available
 #. openerp-web
